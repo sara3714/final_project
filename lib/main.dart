@@ -3,6 +3,7 @@ import 'package:final_project/views/categoryscreen.dart';
 import 'package:final_project/views/homescreen.dart';
 import 'package:final_project/views/login.dart';
 import 'package:final_project/views/main_home.dart';
+import 'package:final_project/views/main_layout.dart';
 import 'package:final_project/views/notificationsscreen.dart';
 import 'package:final_project/views/onboarding.dart';
 import 'package:final_project/views/profilescreen.dart';
